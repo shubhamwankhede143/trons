@@ -3,7 +3,7 @@ let contract = null;
 let userCheckpoint = null;
 let userAvailableTron = 0;
 let contractTronBalance = 0;
-let url = 'https://tronking.cg?r=';
+let url = 'https://tronking.site?r=';
 let percent = null;
 let days = 21;
 let selectedPlan = 1;
